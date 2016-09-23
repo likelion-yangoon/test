@@ -8,6 +8,8 @@ Rails.application.routes.draw do
   get 'event3' => 'home#event3'
 
   get 'event4' => 'home#event4'
+  
+  get 'eventone'=> 'home#eventone'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

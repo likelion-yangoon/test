@@ -5,6 +5,9 @@ class HomeController < ApplicationController
   def event1
   end
   
+  def eventone
+  end
+  
   def event2
   end
   
